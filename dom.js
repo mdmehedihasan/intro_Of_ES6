@@ -27,6 +27,4 @@ document.getElementById('colorFriendName').addEventListener('click', function ()
     for (const friend of colorFriend) {
         friend.style.color = 'red';
     }
-
-
 })
